@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lab5_1>
+<element name="computer" value="Intel Core Duo" />
+<element name="monitor" value="19 in." />
+<element name="printer" value="LBP2900" />
+
+<book>
+<price>258</price>
+<author>Author</author>
+<title>PHP</title>
+</book>
+
+<book>
+<price>1478</price>
+<author>Matros</author>
+<title>AJAX</title>
+</book>
+
+<book>
+<price>1236</price>
+<author>Berg</author>
+<title>JAVA</title>
+</book>
+
+</lab5_1>
+

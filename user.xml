@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Vasya">
+    <name>sfasfsaf</name>
+    <email>asfasf</email>
+    <msg>asfsafas</msg>
+    <ip>127.0.0.1</ip>
+    <datetime>1298487842</datetime>
+  </user>
+  <user name="Mike">
+    <name>safasfasf</name>
+    <email>fasasfas</email>
+    <msg>safasfasf</msg>
+    <ip>127.0.0.1</ip>
+    <datetime>1298487846</datetime>
+  </user>
+  <user name="Alex">
+    <name>reyery</name>
+    <email>dyfdyfdfy</email>
+    <msg>dfydfydfy</msg>
+    <ip>127.0.0.1</ip>
+    <datetime>1298577843</datetime>
+  </user>
+  <user name="Trol">
+    <name/>
+    <email/>
+    <msg/>
+    <ip>127.0.0.1</ip>
+    <datetime>1298577865</datetime>
+  </user>
+  <user name="Petya">
+    <name>sdgsdg</name>
+    <email>sdgsdgsgdsd</email>
+    <msg>dsgsdgdg</msg>
+    <ip>127.0.0.1</ip>
+    <datetime>1298580734</datetime>
+  </user>
+</users>

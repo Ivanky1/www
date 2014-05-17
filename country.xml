@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Страна xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/site/home/xml.ru/www/shema.xsd">
+	<Россия>
+		<Владимир>Маленький</Владимир>
+		<Москва></Москва>
+		<numb>10</numb>
+	</Россия>
+</Страна>

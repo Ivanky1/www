@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lab7>
+<item city="Москва" org="ООО Рога и Копыта" title="Кепка" value="120" />
+<item city="Москва" org="ООО Рога и Копыта" title="Велосипед" value="5" />
+<item city="Москва" org="ООО Рога и Копыта" title="Футблока" value="10" />
+<item city="Москва" org="ООО Светлана" title="Кепка" value="120" />
+<item city="Москва" org="ООО Светлана" title="Футблока" value="10" />
+<item city="Москва" org="ООО Ариадна" title="Велосипед" value="120" />
+<item city="Москва" org="ООО Ариадна" title="Футблока" value="10" />
+<item city="Петербугр" org="ООО Стрелка" title="Кепка" value="120" />
+<item city="Петербугр" org="ООО Стрелка" title="Велосипед" value="5" />
+<item city="Петербугр" org="ООО Стрелка" title="Футблока" value="10" />
+<item city="Петербугр" org="ООО Светлана" title="Кепка" value="120" />
+<item city="Петербугр" org="ООО Светлана" title="Футблока" value="10" />
+<item city="Петербугр" org="ООО Петр I" title="Велосипед" value="120" />
+<item city="Петербугр" org="ООО Петр I" title="Футблока" value="10" />
+</lab7>

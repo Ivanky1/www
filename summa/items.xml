@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<items>
+		<item>
+			<price>125</price>
+			<qua>2</qua>
+		</item>
+		<item>
+			<price>100</price>
+			<qua>4</qua>
+		</item>
+		<item>
+			<price>200</price>
+			<qua>1</qua>
+		</item>
+		<item>
+			<price>50</price>
+			<qua>2</qua>
+		</item>
+	</items>
+</catalog>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" elementFormDefault="qualified" attributeFormDefault="unqualified" xsi:noNamespaceSchemaLocation="file:///C:/site/home/xml.ru/www/country.xsd">
+	<xs:element name="country">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="city" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="strasse" type="xs:string"/>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:integer"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="client" type="acct" maxOccurs="unbounded"/>
+				<xs:element name="customer" type="newAcct" maxOccurs="unbounded"/>
+				<xs:element name="employees">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:pattern value="[\w\s\d]{11}"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+			
+			
+				<xs:element name="krot">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:group ref="name"/>
+							<xs:element name="datetime" type="xs:date"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="acct">
+		<xs:sequence>
+			<xs:element name="firstname" type="xs:string"/>
+			<xs:element name="customer" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="newAcct">
+		<xs:complexContent>
+		
+		
+			<xs:extension base="acct">
+				<xs:sequence>
+					<xs:element name="telefon" type="xs:int"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	
+	
+	<xs:group name="name">
+		<xs:sequence>
+			<xs:element name="kvas" type="xs:string"/>
+		</xs:sequence>
+	</xs:group>
+</xs:schema>

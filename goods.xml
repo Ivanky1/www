@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf8"?>
+<goods>
+  <good>
+    <id>9</id>
+    <name>join</name>
+    <email>join@join.ru</email>
+    <msg>Hello</msg>
+    <hh>ыфыафыа</hh>
+  </good>
+  <good>
+    <id>2</id>
+    <name>Vasia Pupkin</name>
+    <email>Vasia@Pupkin.ru</email>
+    <msg>Вася Пупкин молодец!!!!!!</msg>
+    <hh>ыфыафыа</hh>
+  </good>
+  <good>
+    <id>11</id>
+    <name>Борис</name>
+    <email>gdfshdf@mail.ru</email>
+    <msg>Будьте счастливы!!!!!!</msg>
+    <hh>ыфыафыа</hh>
+  </good>
+</goods>

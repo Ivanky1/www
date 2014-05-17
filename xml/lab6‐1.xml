@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lab6_1>
+<course id="XML">
+<title>
+XML и XSLT. Современные технологии
+обработки данных для Web и Office 2007
+</title>
+<keywords>
+<keyword>XML</keyword>
+<keyword>XML Schema</keyword>
+<keyword>XPath</keyword>
+<keyword>XSLT</keyword>
+</keywords>
+<teachers>
+<teacher>Никитин И.Г.</teacher>
+<teacher>Павлов Ю.Е.</teacher>
+</teachers>
+</course>
+<course id="AJAX">
+<title>AJAX. Разработка web-приложений для Web 2.0</title>
+<keywords>
+<keyword>AJAX</keyword>
+<keyword>XML</keyword>
+<keyword>XML Schema</keyword>
+<keyword>JavaScript</keyword>
+<keyword>XSLT</keyword>
+</keywords>
+<teachers>
+<teacher>Никитин И.Г.</teacher>
+<teacher>Чебыкин Р.И.</teacher>
+</teachers>
+</course>
+<course id="PHP">
+<title>Профессиональное программирование на PHP 5</title>
+<keywords>
+<keyword>PHP</keyword>
+<keyword>XML</keyword>
+<keyword>XSLT</keyword>
+</keywords>
+<teachers>
+<teacher>Никитин И.Г.</teacher>
+<teacher>Борисов И.О.</teacher>
+</teachers>
+</course>
+</lab6_1>

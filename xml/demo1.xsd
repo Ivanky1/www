@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 rel. 2 (http://www.altova.com) by fbg (fdgdfgdf) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="note">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:group ref="GroupBy"/>
+				<xs:element name="kolco" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:group name="GroupBy">
+		<xs:sequence>
+			<xs:element name="to" type="xs:string"/>
+			<xs:element name="from" type="xs:string"/>
+		</xs:sequence>
+	</xs:group>
+	<xs:element name="author">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="new" type="xs:string"/>
+				<xs:element name="new2" type="xs:int"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

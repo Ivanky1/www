@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/site/home/xml.ru/www/country.xsd">
+	<city id="1">
+		<strasse>Goriki</strasse>
+	</city>
+	<city id="2">
+		<strasse>asdas</strasse>
+	</city>
+	<client>
+		<firstname>Jhon</firstname>
+		<customer>Mike</customer>
+	</client>
+	<customer>
+		<firstname>Vasya</firstname>
+		<customer>Pupkin</customer>
+		<telefon>123</telefon>
+	</customer>
+	<employees>Prodavec  1</employees>
+	<krot>
+		<kvas>sadasd</kvas>
+		<datetime>1999-07-30</datetime>
+	</krot>
+</country>
