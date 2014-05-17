@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
+<<<<<<< HEAD
 
 	<items>
 
+=======
+	<items>
+>>>>>>> 68b7236... xml
 		<item>
 			<price>125</price>
 			<qua>2</qua>
@@ -19,7 +23,11 @@
 			<price>50</price>
 			<qua>2</qua>
 		</item>
+<<<<<<< HEAD
 
 	</items>
 
+=======
+	</items>
+>>>>>>> 68b7236... xml
 </catalog>
