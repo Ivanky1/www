@@ -13,7 +13,7 @@
     </xsl:template>
 
 
-    
+
     <xsl:template name="price">
         <xsl:param name="items"/>
         <xsl:param name="total" select="0"/>
@@ -24,7 +24,6 @@
                     <xsl:with-param name="items" select="$items[position() > 1]"/>
                     <xsl:with-param name="total" select="$firstItem+$total"/>
                 </xsl:call-template>
-
             </xsl:when>
             <xsl:otherwise>
                 <xsl:value-of select="$total"/>
