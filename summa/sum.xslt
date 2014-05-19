@@ -12,8 +12,6 @@
         <xsl:value-of select="format-number($summa,'$#,###.00')"/>
     </xsl:template>
 
-
-
     <xsl:template name="price">
         <xsl:param name="items"/>
         <xsl:param name="total" select="0"/>
@@ -31,3 +29,4 @@
         </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
+-
