@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
+
 	<items>
+
 		<item>
 			<price>125</price>
 			<qua>2</qua>
@@ -17,7 +19,7 @@
 			<price>50</price>
 			<qua>2</qua>
 		</item>
+
 	</items>
 
-    
 </catalog>
